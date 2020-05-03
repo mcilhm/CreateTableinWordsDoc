@@ -1,0 +1,9 @@
+C:\Users\muchilham\Documents\Visual Studio 2019\Projects\CreateTableinWordsDoc\CreateTableinWordsDoc\bin\Debug\CreateTableinWordsDoc.exe.config
+C:\Users\muchilham\Documents\Visual Studio 2019\Projects\CreateTableinWordsDoc\CreateTableinWordsDoc\bin\Debug\CreateTableinWordsDoc.exe
+C:\Users\muchilham\Documents\Visual Studio 2019\Projects\CreateTableinWordsDoc\CreateTableinWordsDoc\bin\Debug\CreateTableinWordsDoc.pdb
+C:\Users\muchilham\Documents\Visual Studio 2019\Projects\CreateTableinWordsDoc\CreateTableinWordsDoc\bin\Debug\Aspose.Words.dll
+C:\Users\muchilham\Documents\Visual Studio 2019\Projects\CreateTableinWordsDoc\CreateTableinWordsDoc\bin\Debug\Aspose.Words.xml
+C:\Users\muchilham\Documents\Visual Studio 2019\Projects\CreateTableinWordsDoc\CreateTableinWordsDoc\obj\Debug\CreateTableinWordsDoc.csprojAssemblyReference.cache
+C:\Users\muchilham\Documents\Visual Studio 2019\Projects\CreateTableinWordsDoc\CreateTableinWordsDoc\obj\Debug\CreateTableinWordsDoc.csproj.CopyComplete
+C:\Users\muchilham\Documents\Visual Studio 2019\Projects\CreateTableinWordsDoc\CreateTableinWordsDoc\obj\Debug\CreateTableinWordsDoc.exe
+C:\Users\muchilham\Documents\Visual Studio 2019\Projects\CreateTableinWordsDoc\CreateTableinWordsDoc\obj\Debug\CreateTableinWordsDoc.pdb
